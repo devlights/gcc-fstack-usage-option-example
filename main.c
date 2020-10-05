@@ -1,3 +1,10 @@
+// REFERENCES:
+//   - https://gcc.gnu.org/onlinedocs/gnat_ugn/Static-Stack-Usage-Analysis.html
+//   - https://qiita.com/developer-kikikaikai/items/ae134d3320b016c7ef18
+//   - https://www.uquest.co.jp/embedded/learning/lecture07-2.html
+//   - https://syohex.hatenablog.com/entry/20110319/1300541703
+//   - https://qiita.com/hirohiro77/items/713d5bcf60fef7e88dfa
+//   - https://qiita.com/tobira-code/items/81d2c05f27d6a39971e4
 #include <stdio.h>
 #include <stdlib.h>
 
